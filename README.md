@@ -18,8 +18,8 @@ Python script designed to download all media files from a specified website. The
 1. **Clone the Repository** (if applicable):
 
 ```sh
-git clone https://github.com/yourusername/media_scraper.git
-cd media_scraper
+git clone https://github.com/mathiramilo/website-media-downloader.git
+cd website-media-downloader
 ```
 
 2. **Install Required Libraries:**
@@ -88,7 +88,7 @@ python "C:\path\to\script.py" %*
 
 2. Add the Directory Containing the Batch File to Your PATH:
 
-   - Open the Start menu and search for "Environment Variables."
+   - Open the Start menu and search for "Environment Variables".
    - Edit the Path variable and add the directory where the .bat file is located.
 
 Now you can run the script from anywhere using:
